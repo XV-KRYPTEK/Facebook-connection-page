@@ -1,4 +1,4 @@
 # hello-world
 Creating my first repository...
-
-Hi Humans!
+ 
+ I propose you to see my projects :)
